@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN, Java**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,Node,Java,Python**
 
 - 📫 How to reach me **https://www.linkedin.com/in/anmol-joshi/**
 
