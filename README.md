@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol-joshi" alt="anmol-joshi" /></a> </p> -->
 
-- 🌱 I’m currently learning **MERN, Java**
+<!-- - 🌱 I’m currently learning **MERN, Java** -->
 
 - 💬 Ask me about **React,Node,Java**
 
